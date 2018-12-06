@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ba60a17-6a86-48ea-8cf5-4f7aea53a993" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
-    <list id="b33e081d-b382-4f3a-961b-39029d65b1a2" name="Failed commit: Default" comment="and rabbitmq demo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq/notify_listener.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq/notify_sender.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq/rabbitmq.conf" />
-    </list>
+    <list default="true" id="1ba60a17-6a86-48ea-8cf5-4f7aea53a993" name="Default" comment="" />
+    <list id="b33e081d-b382-4f3a-961b-39029d65b1a2" name="Failed commit: Default" comment="and rabbitmq demo" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +41,7 @@
       <file leaf-file-name="notify_sender.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rabbitmq/notify_sender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
+            <state relative-caret-position="1518">
               <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
               <folding>
                 <element signature="e#23#42#0" expanded="true" />
@@ -114,10 +108,6 @@
               <option name="myItemId" value="demos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbitmq" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -128,6 +118,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -473,7 +464,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbitmq/notify_sender.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
+        <state relative-caret-position="1518">
           <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
           <folding>
             <element signature="e#23#42#0" expanded="true" />
